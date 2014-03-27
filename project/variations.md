@@ -1,0 +1,1 @@
++ Try it with a light sensor input instead of a temperature sensor.
